@@ -8,7 +8,6 @@ dm tau_3463766_R_003.fits has no coordinate header
 dm tau_3463766_I_006.fits has no coordinate header 
 dm tau_3463766_I_007.fits has no coordinate header 
 dm tau_3463766_V_001.fits has no coordinate header 
-dm tau_3488473_I_047.fits has no coordinate header 
 
 Used filters: 
  I V R 
@@ -23,4 +22,7 @@ Warning. Image dm tau_3463766_R_003.fits is not saved.
 Warning. Image dm tau_3463766_I_006.fits is not saved. 
 Warning. Image dm tau_3463766_I_007.fits is not saved. 
 Warning. Image dm tau_3463766_V_001.fits is not saved. 
-Warning. Image dm tau_3488473_I_047.fits is not saved. 
+
+Photometry: 
+(only FITS images with compte header information are processed.) 
+

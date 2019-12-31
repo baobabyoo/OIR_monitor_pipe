@@ -15,4 +15,4 @@ Used filters:
 
 Photometry: 
 (only FITS images with compte header information are processed.) 
-No source found indm tau_3488473_R_040.fits
+Cannot find dm_tau in dm tau_3488473_R_040.fits

@@ -8,11 +8,10 @@ dm tau_3463766_R_003.fits has no coordinate header
 dm tau_3463766_I_006.fits has no coordinate header 
 dm tau_3463766_I_007.fits has no coordinate header 
 dm tau_3463766_V_001.fits has no coordinate header 
-dm tau_3488473_I_047.fits has no coordinate header 
 
 Used filters: 
  I V R 
 
 Photometry: 
 (only FITS images with compte header information are processed.) 
-Cannot find dm_tau in dm tau_3488473_R_040.fits
+Cannot find dm_tau in dm tau_3463766_V_019.fitsCannot find dm_tau in dm tau_3463766_V_018.fitsCannot find dm_tau in dm tau_3463766_V_027.fitsCannot find dm_tau in dm tau_3463766_V_028.fitsCannot find dm_tau in dm tau_3463766_V_020.fits

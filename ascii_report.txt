@@ -14,4 +14,57 @@ Used filters:
 
 Photometry: 
 (only FITS images with compte header information are processed.) 
-Cannot find dm_tau in dm tau_3463766_V_019.fitsCannot find dm_tau in dm tau_3463766_V_018.fitsCannot find dm_tau in dm tau_3463766_V_027.fitsCannot find dm_tau in dm tau_3463766_V_028.fitsCannot find dm_tau in dm tau_3463766_V_020.fits
+
+
+Finding reference stars: 
+(only FITS images with compte header information are processed.) 
+Use fwhm: 6.847268437761375,  Found 13 reference stars in dm tau_3463766_I_015.fits
+Use fwhm: 5.5872506789772665,  Found 14 reference stars in dm tau_3463766_V_019.fits
+Use fwhm: 5.794615683573875,  Found 23 reference stars in dm tau_3463766_R_021.fits
+Use fwhm: 5.702971933992284,  Found 10 reference stars in dm tau_3463766_V_018.fits
+Use fwhm: 6.115822719628771,  Found 18 reference stars in dm tau_3463766_I_026.fits
+Use fwhm: 4.2774917806524595,  Found 16 reference stars in dm tau_3463766_I_025.fits
+Use fwhm: 14.113822278129604,  Found 15 reference stars in dm tau_3463766_I_033.fits
+Use fwhm: 7.118186129781394,  Found 6 reference stars in dm tau_3463766_V_027.fits
+Use fwhm: 4.657579429889837,  Found 19 reference stars in dm tau_3463766_R_014.fits
+Use fwhm: 3.945427390657395,  Found 20 reference stars in dm tau_3463766_R_023.fits
+Use fwhm: 6.83230146598607,  Found 12 reference stars in dm tau_3463766_R_030.fits
+Use fwhm: 4.346703810438934,  Found 15 reference stars in dm tau_3463766_I_024.fits
+Use fwhm: 5.3488959848982125,  Found 10 reference stars in dm tau_3463766_V_011.fits
+Excluding dm tau_3463766_I_034.fits because it is in the skip list 
+Excluding dm tau_3463766_R_022.fits because it is in the skip list 
+Use fwhm: 4.27284815328935,  Found 18 reference stars in dm tau_3463766_I_016.fits
+Use fwhm: 12.101947406613618,  Found 7 reference stars in dm tau_3463766_R_013.fits
+Use fwhm: 6.747283819659096,  Found 22 reference stars in dm tau_3463766_R_032.fits
+Use fwhm: 7.935376261237651,  Found 7 reference stars in dm tau_3463766_V_009.fits
+Use fwhm: 6.628161633853425,  Found 7 reference stars in dm tau_3463766_V_028.fits
+Use fwhm: 5.417563364864714,  Found 12 reference stars in dm tau_3463766_V_010.fits
+Use fwhm: 6.393601734011894,  Found 1 reference stars in dm tau_3463766_V_029.fits
+Use fwhm: 4.665801688700024,  Found 17 reference stars in dm tau_3463766_I_017.fits
+Use fwhm: 4.824635245939748,  Found 9 reference stars in dm tau_3463766_V_020.fits
+Use fwhm: 7.0258744182963575,  Found 17 reference stars in dm tau_3463766_R_031.fits
+Use fwhm: 15.517213703029121,  Found 2 reference stars in dm tau_3463766_R_012.fits
+Excluding dm tau_3463766_I_035.fits because it is in the skip list 
+Use fwhm: 5.8769347387868685,  Found 10 reference stars in dm tau_3486034_V_000.fits
+Use fwhm: 4.455749793043354,  Found 22 reference stars in dm tau_3486034_I_002.fits
+Use fwhm: 5.279926238452713,  Found 32 reference stars in dm tau_3486034_R_001.fits
+
+Image preview summary: 
+Warning. Image dm tau_3463766_V_002.fits is not saved. 
+Warning. Image dm tau_3463766_I_008.fits is not saved. 
+Warning. Image dm tau_3463766_V_000.fits is not saved. 
+Warning. Image dm tau_3463766_R_004.fits is not saved. 
+Warning. Image dm tau_3463766_R_005.fits is not saved. 
+Warning. Image dm tau_3463766_R_003.fits is not saved. 
+Warning. Image dm tau_3463766_I_006.fits is not saved. 
+Warning. Image dm tau_3463766_I_007.fits is not saved. 
+Warning. Image dm tau_3463766_V_001.fits is not saved. 
+
+Photometry: 
+(only FITS images with compte header information are processed.) 
+Cannot find dm_tau in dm tau_3463766_V_019.fits
+Cannot find dm_tau in dm tau_3463766_V_018.fits
+Cannot find dm_tau in dm tau_3463766_V_027.fits
+Cannot find dm_tau in dm tau_3463766_V_028.fits
+Cannot find dm_tau in dm tau_3463766_V_020.fits
+

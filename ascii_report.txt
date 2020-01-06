@@ -11,3 +11,5 @@ Photometry:
 Photometry: 
 (only FITS images with compte header information are processed.) 
 
+
+Calibrating from counts to magnitude: 

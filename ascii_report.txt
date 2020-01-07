@@ -8,6 +8,21 @@ Photometry:
 (only FITS images with compte header information are processed.) 
 
 
+Finding reference stars: 
+(only FITS images with compte header information are processed.) 
+Use fwhm: 4.036845887187906,  Found 21 reference stars in dm tau_3463766_I_015.fits
+Excluding dm tau_3488473_R_040.fits because it is in the skip list 
+Use fwhm: 3.246355505835748,  Found 32 reference stars in dm tau_3488473_R_064.fits
+Use fwhm: 4.076449279139101,  Found 30 reference stars in dm tau_3488473_I_038.fits
+Excluding dm tau_3488473_I_056.fits because it is in the skip list 
+Excluding dm tau_3488473_V_075.fits because it is in the skip list 
+Excluding dm tau_3463766_I_034.fits because it is in the skip list 
+Excluding dm tau_3463766_R_022.fits because it is in the skip list 
+Use fwhm: 2.966284275884667,  Found 16 reference stars in dm tau_3488473_V_018.fits
+Excluding dm tau_3463766_V_029.fits because it is in the skip list 
+Excluding dm tau_3463766_I_035.fits because it is in the skip list 
+Use fwhm: 3.3070812575417827,  Found 25 reference stars in dm tau_3488473_V_027.fits
+
 Photometry: 
 (only FITS images with compte header information are processed.) 
 

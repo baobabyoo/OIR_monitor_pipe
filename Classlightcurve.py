@@ -332,11 +332,12 @@ class lightcurve:
             return
 
         sort_idx = np.argsort( self.time % self.period )
+        num_fold = np.floor(  (np.max(self.time) - np.min(self.time)  ) / self.period )
         self.time_plot = (self.time % self.period)[sort_idx]
         self.data_plot = self.data[sort_idx]
 
         if ( (residual == True) and (timebin>0.0) ):
-            box_pts = int( round(self.period / self.meantimestep) )
+            box_pts = int( round( timebin / self.meantimestep) * num_fold )
             box     = np.ones(box_pts) / box_pts
             smoothed_data = np.convolve(self.data_plot, box, mode='same')
             self.data_plot = self.data_plot - smoothed_data

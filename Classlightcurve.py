@@ -114,7 +114,8 @@ class lightcurve:
 
     ##### Functions #######################################################
     def plotdata(self, outfigname, label='None', xlim=[], ylim=[],
-                figsize=[10,6], plot_range=[0.1, 0.1, 0.85, 0.85]):
+                figsize=[10,6], plot_range=[0.14, 0.1, 0.85, 0.85], 
+                oplot_data_list=[] ):
         '''
         Function to plot data as figure.
 
@@ -124,6 +125,9 @@ class lightcurve:
 
         xlim, ylim  [list of float] : X and y ranges for plotting
 
+        oplot_data_list [list of "tuple of certain format"] : A list data to be overplotted.
+            The format is (x [float array], y [float array], (R, G, B, alpha), shape ['o', '-'] )
+
         '''
         fig = plt.figure(figsize=figsize)
         ax = fig.add_axes(plot_range)
@@ -132,6 +136,12 @@ class lightcurve:
         plt.tick_params(labelsize=14)
         plt.xlabel(self.x_label, fontsize=14)
         plt.ylabel(self.y_label, fontsize=14)
+
+        for i in range(0, len(oplot_data_list) ):
+            ax.plot(oplot_data_list[i][0], oplot_data_list[i][1],
+                    oplot_data_list[i][3],
+                    color = oplot_data_list[i][2]
+                    )
 
         if (label != 'None'):
             ax.text(0.02, 0.92, label, transform=ax.transAxes,

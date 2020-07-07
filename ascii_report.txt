@@ -71,11 +71,11 @@ Use fwhm: 5.381794574015981,  Found 22 reference stars in dm tau_3488473_R_025.f
 Use fwhm: 3.0233771206639135,  Found 23 reference stars in dm tau_3488473_I_005.fits
 Use fwhm: 3.6052519521932638,  Found 32 reference stars in dm tau_3488473_R_031.fits
 Use fwhm: 6.129199321068277,  Found 34 reference stars in dm tau_3488473_V_240.fits
-Use fwhm: 4.466909352636356,  Found 7 reference stars in dm tau_3488473_I_215.fits
+Excluding dm tau_3488473_I_215.fits because it is in the skip list 
 Use fwhm: 3.039868555712714,  Found 34 reference stars in dm tau_3488473_R_064.fits
 Use fwhm: 3.952797586414863,  Found 34 reference stars in dm tau_3488473_I_038.fits
 Use fwhm: 3.071121051653877,  Found 24 reference stars in dm tau_3488473_I_032.fits
-Use fwhm: 5.0458111228353735,  Found 7 reference stars in dm tau_3488473_R_214.fits
+Excluding dm tau_3488473_R_214.fits because it is in the skip list 
 Use fwhm: 8.591638137672042,  Found 21 reference stars in dm tau_3488473_V_201.fits
 Use fwhm: 3.9588789999240217,  Found 26 reference stars in dm tau_3488473_I_068.fits
 Excluding dm tau_3488473_R_223.fits because it is in the skip list 
@@ -106,9 +106,9 @@ Excluding dm tau_3488473_I_254.fits because it is in the skip list
 Use fwhm: 4.355415533109367,  Found 35 reference stars in dm tau_3488473_V_060.fits
 Excluding dm tau_3488473_V_204.fits because it is in the skip list 
 Excluding dm tau_3488473_R_205.fits because it is in the skip list 
-Use fwhm: 5.93925192773232,  Found 7 reference stars in dm tau_3488473_I_218.fits
+Excluding dm tau_3488473_I_218.fits because it is in the skip list 
 Use fwhm: 3.0009841003705455,  Found 22 reference stars in dm tau_3488473_I_011.fits
-Use fwhm: 2.9784343641291358,  Found 7 reference stars in dm tau_3488473_V_051.fits
+Excluding dm tau_3488473_V_051.fits because it is in the skip list 
 Excluding dm tau_3488473_R_262.fits because it is in the skip list 
 Use fwhm: 3.287117070683673,  Found 38 reference stars in dm tau_3488473_R_034.fits
 Excluding dm tau_3488473_I_251.fits because it is in the skip list 
@@ -215,6 +215,15 @@ Use fwhm: 3.90358603522084,  Found 16 reference stars in dm tau_3488473_I_023.fi
 Excluding dm tau_3488473_I_041.fits because it is in the skip list 
 Excluding dm tau_3488473_V_042.fits because it is in the skip list 
 Use fwhm: 3.4200879881417734,  Found 24 reference stars in dm tau_3488473_R_238.fits
+Use fwhm: 3.0950001911049516,  Found 23 reference stars in dm tau_3463766_I_008_new.fits
+Use fwhm: 3.537143097105766,  Found 40 reference stars in dm tau_3463766_R_003_new.fits
+Use fwhm: 3.811254262856104,  Found 35 reference stars in dm tau_3463766_V_002_new.fits
+Use fwhm: 3.2083004736496243,  Found 23 reference stars in dm tau_3463766_I_007_new.fits
+Use fwhm: 3.412609283006229,  Found 40 reference stars in dm tau_3463766_R_005_new.fits
+Use fwhm: 3.8586243765289976,  Found 33 reference stars in dm tau_3463766_V_001_new.fits
+Use fwhm: 3.2066724050408486,  Found 23 reference stars in dm tau_3463766_I_006_new.fits
+Use fwhm: 3.4707170389073236,  Found 41 reference stars in dm tau_3463766_R_004_new.fits
+Use fwhm: 4.266396601314698,  Found 24 reference stars in dm tau_3463766_V_000_new.fits
 
 Photometry: 
 (only FITS images with compte header information are processed.) 
